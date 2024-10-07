@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### I am Zhenqian Shen, a doctoral student at EE department of Tsinghua University. 
+
+#### My research interests includes AutoML, AI methods for drug discovery. Resently, I am working on benchmarking drug-drug interaction prediction. 
+
+
+
 <!--
 **zgs0314/zgs0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
